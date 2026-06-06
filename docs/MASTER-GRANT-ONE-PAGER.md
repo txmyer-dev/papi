@@ -3,16 +3,16 @@
 **Date:** 2026-06-05
 
 ## 1. Executive Summary
-The People's AI (PAPI) is a non-profit digital infrastructure project designed to democratize access to cutting-edge artificial intelligence. We aggregate the world's fragmented "free inference" tiers—offered by companies like Google, Groq, and NVIDIA—into a single, reliable, OpenAI-compatible API. By providing this service at zero cost to students, researchers, and non-profits, we bridge the growing "AI Divide" between those who can afford premium subscriptions and those who cannot.
+The People's AI (PAPI) is a non-profit digital infrastructure project designed to democratize access to cutting-edge artificial intelligence. We build a **bridging layer** that connects fragmented "free inference" tiers—offered by companies like Google, Groq, and NVIDIA—to students, researchers, and non-profits. By providing this access at zero cost, we bridge the growing "AI Divide" between those who can afford premium subscriptions and those who cannot.
 
 ## 2. The Problem: The "AI Divide"
 The current AI landscape is characterized by extreme financial barriers:
 - **Prohibitive Costs:** Leading LLM APIs and subscriptions (OpenAI, Anthropic, Google) cost between $20 and $200+ per month. For a student in the Global South or a small non-profit, this is an insurmountable barrier.
 - **Fragmented Free Tiers:** While many providers offer free tiers, they are isolated, subject to strict rate limits, and require individual management of dozens of API keys.
-- **Waste of Capacity:** Roughly 1.7 billion tokens per month of high-quality inference capacity sit unused because there is no unified infrastructure to harness them for public good.
+- **Waste of Capacity:** Roughly 1.7 billion tokens per month of high-quality inference capacity offered by major AI companies sits underutilized because there is no unified bridge to connect it to the public good.
 
 ## 3. The Solution: The People's AI (PAPI)
-PAPI provides a **unified digital public good** by stacking these free tiers into a single robust endpoint.
+PAPI builds a **bridging layer** that makes these free tiers accessible to everyone by organizing them into a single reliable endpoint. We do not create the models or the inference—we simply ensure the people who need them can reach them.
 
 ### Key Capabilities:
 - **Universal Compatibility:** One endpoint (`/v1/chat/completions`) that works with any existing OpenAI-compatible software.
