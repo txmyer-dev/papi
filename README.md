@@ -1,4 +1,4 @@
-# Project Atlas - Public AI (PAPI)
+# Project Atlas - The People's AI (PAPI)
 
 A non-profit initiative to democratize access to large language models by aggregating free inference tiers into a single, reliable, OpenAI-compatible API.
 

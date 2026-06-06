@@ -1,4 +1,4 @@
-# Public AI (PAPI) - Business & Mission Model
+# The People's AI (PAPI) - Business & Mission Model
 
 ## 1. Mission & Vision
 

@@ -1,5 +1,5 @@
 # PAPI Grant & Funding Prospectus
-**Project:** Public AI (PAPI) - Democratizing AI Access for the Underserved
+**Project:** The People's AI (PAPI) - Democratizing AI Access for the Underserved
 **Stage:** Pre-Revenue / Idea Stage (0-12 months old)
 **Focus:** Digital Equity, Open-Source Infrastructure, AI Access for Low-Income Populations
 **Legal Status:** Not yet established (Planning for 501(c)(3))

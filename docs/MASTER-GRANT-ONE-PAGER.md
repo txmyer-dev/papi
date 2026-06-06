@@ -1,9 +1,9 @@
-# Public AI (PAPI) - Master Grant One-Pager
+# The People's AI (PAPI) - Master Grant One-Pager
 **Version:** 1.0 (Foundation)
 **Date:** 2026-06-05
 
 ## 1. Executive Summary
-Public AI (PAPI) is a non-profit digital infrastructure project designed to democratize access to cutting-edge artificial intelligence. We aggregate the world's fragmented "free inference" tiers—offered by companies like Google, Groq, and NVIDIA—into a single, reliable, OpenAI-compatible API. By providing this service at zero cost to students, researchers, and non-profits, we bridge the growing "AI Divide" between those who can afford premium subscriptions and those who cannot.
+The People's AI (PAPI) is a non-profit digital infrastructure project designed to democratize access to cutting-edge artificial intelligence. We aggregate the world's fragmented "free inference" tiers—offered by companies like Google, Groq, and NVIDIA—into a single, reliable, OpenAI-compatible API. By providing this service at zero cost to students, researchers, and non-profits, we bridge the growing "AI Divide" between those who can afford premium subscriptions and those who cannot.
 
 ## 2. The Problem: The "AI Divide"
 The current AI landscape is characterized by extreme financial barriers:
@@ -11,7 +11,7 @@ The current AI landscape is characterized by extreme financial barriers:
 - **Fragmented Free Tiers:** While many providers offer free tiers, they are isolated, subject to strict rate limits, and require individual management of dozens of API keys.
 - **Waste of Capacity:** Roughly 1.7 billion tokens per month of high-quality inference capacity sit unused because there is no unified infrastructure to harness them for public good.
 
-## 3. The Solution: Public AI (PAPI)
+## 3. The Solution: The People's AI (PAPI)
 PAPI provides a **unified digital public good** by stacking these free tiers into a single robust endpoint.
 
 ### Key Capabilities:
@@ -42,4 +42,4 @@ We are seeking funding to transition PAPI from a successful prototype to a scala
 - **Development:** To optimize routing algorithms and build a user-friendly dashboard for community monitoring.
 
 ---
-*Public AI (PAPI) - Building digital infrastructure for the public good.*
+*The People's AI (PAPI) - Building digital infrastructure for the public good.*

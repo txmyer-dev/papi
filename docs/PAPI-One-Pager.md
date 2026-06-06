@@ -1,4 +1,4 @@
-# Public AI (PAPI) - One-Pager
+# The People's AI (PAPI) - One-Pager
 
 ## Mission
 Democratize access to Large Language Models (LLMs) by aggregating the world's free inference capacity into a single, reliable, zero-cost API.
@@ -9,7 +9,7 @@ Democratize access to Large Language Models (LLMs) by aggregating the world's fr
 - **The gap**: There is no unified, reliable way to access this collective ~1.7 billion tokens/month of free capacity.
 
 ## The Solution
-**Public AI (PAPI)** is a non-profit initiative that provides a single OpenAI-compatible API endpoint, aggregating 16+ free LLM providers.
+**The People's AI (PAPI)** is a non-profit initiative that provides a single OpenAI-compatible API endpoint, aggregating 16+ free LLM providers.
 
 ### Core Technology
 | Feature | Description |
@@ -45,4 +45,4 @@ We are seeking **partners and funders** who believe in open, equitable access to
 - **Community**: Developers and researchers to test, provide feedback, and help optimize the router.
 
 ---
-*Public AI (PAPI) - Building digital infrastructure for the public good.*
+*The People's AI (PAPI) - Building digital infrastructure for the public good.*
